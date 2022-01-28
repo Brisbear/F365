@@ -1,0 +1,19 @@
+Sample ID	Alignment	Treatment
+A10	A10_L1_1.pe.bam	F319
+A13	A13_L1_1.pe.bam	Control
+A14	A14_L1_1.pe.bam	PMB
+A15	A15_L1_1.pe.bam	Colistin
+A16	A16_L1_1.pe.bam	F319
+A17	A17_L1_1.pe.bam	F287
+A19	A19_L1_1.pe.bam	Control
+A23	A23_L2_1.pe.bam	F287
+A24	A24_L2_1.pe.bam	F365
+A25	A25_L2_1.pe.bam	Control
+A26	A26_L2_1.pe.bam	PMB
+A27	A27_L2_1.pe.bam	Colistin
+A30	A30_L2_1.pe.bam	F365
+A3	A3_L1_1.pe.bam	Colistin
+A4	A4_L1_1.pe.bam	F319
+A5	A5_L1_1.pe.bam	F287
+A6	A6_L1_1.pe.bam	F365
+A8	A8_L1_1.pe.bam	PMB
