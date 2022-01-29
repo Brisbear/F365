@@ -1,5 +1,5 @@
-# imaging-antimicrobial-pharmacodynamics
-Computational procedure for imaging based antimicrobial pharmacodynamic study
+# F365
+RNA-Seq data analysis for manuscript "A new lipopeptide targeting top-priority multidrug-resistant 1 Gram-negative pathogens" by Kade et al.
 
 
 data_hk2/<br />
