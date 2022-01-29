@@ -1,4 +1,4 @@
-# code for RNA-Seq analyses in manuscript "A new lipopeptide targeting top-priority multidrug-resistant Gram-negative pathogens"
+# RNA-Seq analyses in manuscript "A new lipopeptide targeting top-priority multidrug-resistant Gram-negative pathogens"
 A new lipopeptide targeting top-priority multidrug-resistant 1 Gram-negative pathogens
 
 
