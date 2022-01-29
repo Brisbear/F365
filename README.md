@@ -1,6 +1,8 @@
 # RNA-Seq analyses in manuscript "A new lipopeptide targeting top-priority multidrug-resistant Gram-negative pathogens"
 A new lipopeptide targeting top-priority multidrug-resistant 1 Gram-negative pathogens
 
+[![DOI](https://zenodo.org/badge/452678489.svg)](https://zenodo.org/badge/latestdoi/452678489)
+
 
 **raw_data_processing/**<br />
 **data_hk2/**<br />
