@@ -1,6 +1,9 @@
 # imaging-antimicrobial-pharmacodynamics
 Computational procedure for imaging based antimicrobial pharmacodynamic study
 
+
+data_hk2/<br />
+data_ab5075/<br />
 scripts/<br />
 HK2<br />
 rnaseqHK2.r: identify differentially expressed genes in HK2 upon treatments of polymyxins and analogs, produce PCA plot and Upset plots.<br />
@@ -16,5 +19,3 @@ plotComplexHeatmapAB5075.r: produce complexheatmap of selected genes.<br />
 plotCircosAB5075.r: generate a Circos plot for all differentially expressed genes in AB5075.<br />
 geneLogFCTableAB5075.r: generate a combined logFC table in concise format for all differentially expressed genes in AB5075.<br />
 
-data_hk2/<br />
-data_ab5075<br />
