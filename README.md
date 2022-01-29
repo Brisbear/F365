@@ -1,5 +1,6 @@
-# imaging-antimicrobial-pharmacodynamics
-Computational procedure for imaging based antimicrobial pharmacodynamic study
+# code for RNA-Seq analyses in manuscript "A new lipopeptide targeting top-priority multidrug-resistant Gram-negative pathogens"
+A new lipopeptide targeting top-priority multidrug-resistant 1 Gram-negative pathogens
+
 
 raw_data_processing<br />
 data_hk2/<br />
